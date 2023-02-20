@@ -1,3 +1,6 @@
 ### Hi there 👋
 
-[![Instagram](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)]
+
+
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-ads10&show_icons=true&theme=tokyonight)
