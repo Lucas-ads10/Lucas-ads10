@@ -4,9 +4,9 @@
 
 
 
-🔭 Aficionado por programação.
-🌱 Estudante de Análise e Desenvolvimeto de Sistemas.
-🖥️ Experiência em Infraestrutura, Hardware e Redes.
+<br>🔭 Aficionado por programação.<br>
+<br>🌱 Estudante de Análise e Desenvolvimeto de Sistemas.<br>
+<br>🖥️ Experiência em Infraestrutura, Hardware e Redes.<br>
 
 
 <div align="center">
