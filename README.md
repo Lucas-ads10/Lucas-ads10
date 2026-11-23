@@ -6,7 +6,7 @@
 
 🔭 Aficionado por programação.
 <br>🌱 Estudante de Análise e Desenvolvimeto de Sistemas.
-<br>🖥️ Experiência em Infraestrutura, Hardware e Redes.
+<br>🖥️ Experiência em Programação de Bot de atendimento, Infraestrutura, Hardware e Redes.
 
 
 <div align="center">
